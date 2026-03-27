@@ -10,3 +10,4 @@ sources:
           - name: DateKey
             tests:
               - unique
+              - not_null
